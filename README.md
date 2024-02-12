@@ -1,28 +1,21 @@
-<!--### Hi there 👋-->
 
-<!--
-**Gopinath9600/Gopinath9600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2>Hey, Hallo, नमस्ते 🙏🏻, I'm Gopinath! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h1 align="center">Hey, Hallo, नमस्ते 🙏🏻, I'm Gopinath! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> 
+<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">  -->
+
+<img width="100%" height="300px" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" alt="Gopinath Barat">
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <!-- <p align="center"> -->
 <!--   <a href="https://github.com/Gopinath9600/"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;UI+/+UX+Designer;Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50"></a> -->
 <!-- </p> -->
-<h3><span style="font-size: 24px;">👨‍💻 I'm a Programmer & Developer!!</span> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+
+
+<h2><span style="font-size: 24px;">👨‍💻 I'm a Programmer & Developer!!</span> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 - 🔭 I’m currently working on <a href="https://github.com/Gopinath9600/">MERN</a>
 
@@ -38,13 +31,12 @@ Here are some ideas to get you started:
   
 - 😄 Pronouns: built/different
   
-- ⚡ Fun fact: Blackbelt in Procastination 😂.
+- ⚡ Fun fact: Coding is the most interesting thing. 😂.
   
 - 📚 5 Words that best sum me up: Sleep Cricket Music Tea Web-Series
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-## Languages and Tools :<br><br>
-
+<h3>## Languages and Tools :</h3><br>
 <p>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
@@ -90,7 +82,9 @@ const gopinath = {
     funFact: "My jokes are a cry for help."
 };
 ```
+<br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 
 
